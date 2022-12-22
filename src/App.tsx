@@ -8,7 +8,7 @@ import InteroperabilityAndRoadmap from './views/InteroperabilityAndRoadmap';
 
 const AppWrapper = styled.div`
   > div {
-    width: 100%;
+    width: 90%;
     position: absolute;
   }
   > .move {
